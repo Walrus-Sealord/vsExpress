@@ -1,0 +1,15 @@
+{
+    "extends": "standard",
+    "plugins": [
+    
+    ],
+    "rules": {
+        "no-console": "warn",
+        "semi": "off",
+        "comma-dangle": "warn",
+        "spaced-comment": "error",
+        "strict": "error",
+        "no-tabs": "error",
+        "indent": ["error", 4]
+    }
+}
